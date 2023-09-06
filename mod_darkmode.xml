@@ -26,20 +26,22 @@
 		<folder>assets</folder>
 	</files>
 	<config>
-		<fields name="params">
-<fieldset name="basic">
+	<fields name="params">
+                <fieldset name="basic">
 
-<field name="modecolor"
-	      default="#030205"
-	      type="color"
-	      label="Mode color" />
+                             <field name="modecolor"
+	                     default="#030205"
+	                     type="color"
+	                     label="Mode color"
+	                     />
 
-       <field name="contentcolor"
-	     default="#fff" type="color"
-	     label="content color"  />
-</fieldset>
+                             <field name="contentcolor"
+	                     default="#fff" type="color"
+	                     label="content color"  
+	                      />
+                </fieldset>
 
-<fieldset
+                       <fieldset
 				name="advanced">
 				<field
 					name="layout"
