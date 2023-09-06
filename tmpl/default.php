@@ -3,8 +3,8 @@ use Joomla\CMS\Factory;
 $doc = Factory::getDocument();
 JHtml::_('jquery.framework');
 // recibiendo parametros
-$modocolor   = $params->get("modecolor");
-$content  = $params->get("contentcolor");
+$modocolor = $params->get("modecolor");
+$content   = $params->get("contentcolor");
 
 // estilos en linea
 $style = 'body.dark {
