@@ -27,18 +27,20 @@
 	</files>
 	<config>
 	<fields name="params">
-                <fieldset name="basic">
+                 <fieldset name="basic">
 
-                             <field name="modecolor"
-	                     default="#030205"
-	                     type="color"
-	                     label="Mode color"
-	                     />
+                             <field
+				    name="modecolor"
+	                            default="#030205"
+	                            type="color"
+	                            label="Mode color"
+	                        />
 
-                             <field name="contentcolor"
-	                     default="#fff" type="color"
-	                     label="content color"  
-	                      />
+                             <field 
+				     name="contentcolor"
+	                             default="#fff" type="color"
+	                             label="content color"  
+	                        />
                 </fieldset>
 
                        <fieldset
