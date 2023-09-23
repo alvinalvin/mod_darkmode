@@ -80,7 +80,8 @@
 					type="hidden"
 					default="static">
 					<option
-						value="static"></option>
+					value="static">
+					</option>
 				</field>
 			</fieldset>
 </fields>
